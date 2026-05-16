@@ -4,4 +4,5 @@ DİKKAT BU SÜRÜM Hem Windows hem Linux hem de MacOS üzerinde çalışması be
 
 * BUILD ALMA
   Bash --> mkdir bin && cd bin && cmake .. && cmake --build
+*  
   cmd --> mkdir bin && cd bin && cmake .. && cmake --build
